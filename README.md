@@ -8,22 +8,6 @@
 
 ---
 
-### 🖥️ whoami
-
-```console
-parth@github:~$ whoami
-student · learning in public · web builder
-
-parth@github:~$ cat now.txt
-→ building web projects (interior design, 3D sneaker showcase, …)
-→ exploring JavaScript / TypeScript
-→ shipping one commit at a time
-
-parth@github:~$ _▊
-```
-
----
-
 ### 💬 A little wisdom, randomly
 
 <p align="center">
