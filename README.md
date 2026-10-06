@@ -6,13 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parth19panchal&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/parth19panchal?tab=followers">
-    <img src="https://img.shields.io/github/followers/parth19panchal?label=Followers&style=for-the-badge&color=36BCF7" alt="Followers" />
-  </a>
-</p>
-
 ---
 
 ### 🖥️ whoami
@@ -28,33 +21,6 @@ parth@github:~$ cat now.txt
 
 parth@github:~$ _▊
 ```
-
----
-
-### 🚧 Currently building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🪑 Interior design site</h4>
-      Boutique theme, architectural cursor, scroll animations, a before/after slider and a cost estimator.
-    </td>
-    <td width="50%" valign="top">
-      <h4>👟 3D sneaker showcase</h4>
-      Vite + JavaScript — a 3D sneaker viewer, hero carousel and product showcase.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>✨ Scroll magic</h4>
-      TypeScript experiments with motion and scroll-driven interactions.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧭 Click-map pop</h4>
-      An interactive, map-based TypeScript side project.
-    </td>
-  </tr>
-</table>
 
 ---
 
