@@ -15,38 +15,53 @@
 
 ---
 
-### 🌱 About me
+### 🖥️ whoami
 
-- 🎓 **Student**, learning in public — one commit at a time
-- 💻 Currently building **web projects** (interior design site, 3D sneaker showcase, and more)
-- 🧠 Exploring **frontend, JavaScript / TypeScript**, and a bit of **Python**
-- 🤝 Open to collaborating on beginner-friendly open source
-- 📫 Reach me: _add your email here_
-- 🌐 Portfolio: _add your site here_
+```console
+parth@github:~$ whoami
+student · learning in public · web builder
 
----
+parth@github:~$ cat now.txt
+→ building web projects (interior design, 3D sneaker showcase, …)
+→ exploring JavaScript / TypeScript
+→ shipping one commit at a time
 
-### 🛠️ Tech I'm working with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,python,git,github,vscode,figma&perline=6" alt="Tech stack" />
-</p>
+parth@github:~$ _▊
+```
 
 ---
 
-### 📊 GitHub stats
+### 🚧 Currently building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🪑 Interior design site</h4>
+      Boutique theme, architectural cursor, scroll animations, a before/after slider and a cost estimator.
+    </td>
+    <td width="50%" valign="top">
+      <h4>👟 3D sneaker showcase</h4>
+      Vite + JavaScript — a 3D sneaker viewer, hero carousel and product showcase.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✨ Scroll magic</h4>
+      TypeScript experiments with motion and scroll-driven interactions.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧭 Click-map pop</h4>
+      An interactive, map-based TypeScript side project.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💬 A little wisdom, randomly
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parth19panchal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth19panchal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth19panchal&theme=tokyonight&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth19panchal&theme=tokyo-night&hide_border=true&color=36BCF7&line=36BCF7&point=ffffff" alt="Activity graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 </p>
 
 ---
@@ -57,8 +72,4 @@
   <img src="https://raw.githubusercontent.com/parth19panchal/parth19panchal/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
----
-
-<p align="center">
-  <i>Thanks for stopping by — say hi! ⭐</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer" alt="" />
