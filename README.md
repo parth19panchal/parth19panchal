@@ -8,14 +8,6 @@
 
 ---
 
-### 💬 A little wisdom, randomly
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-</p>
-
----
-
 ### 🐍 Watch my contributions get eaten
 
 <p align="center">
